@@ -32,7 +32,7 @@
     "lru-cache": "^5.1.1",
     "morgan": "^1.9.1",
     "route-cache": "0.4.4",
-    "vue": "2.6.11",
+    "vue": "3.0.0",
     "vue-router": "^3.1.6",
     "vue-server-renderer": "2.6.11",
     "vuex": "^3.1.3",
